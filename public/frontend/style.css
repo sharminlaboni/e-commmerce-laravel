@@ -1,0 +1,66 @@
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    border-radius: 5px;
+    padding: 8px 18px;
+  }
+
+  .navbar-light .navbar-nav .nav-link.active,
+  .navbar-light .navbar-nav .nav-link:hover {
+    background: #10bcd6;
+    color: #fff;
+  }
+
+  .bg-image{
+    background-image: url('image/hero_1.jpg');
+    height: 100vh;
+  }
+
+
+.image{
+    height: 300px;
+    background-image: url('image/bg_1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.image1{
+    height: 300px;
+    background-image: url('image/bg_2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* text-align: center; */
+
+}
+
+
+
+  .get-help ul li{
+    padding-top: 6px;
+  }
+
+  .get-help ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 2px 10px;
+
+  }
+
+  .get-help ul li a:hover{
+    background-color: #10bcd6;
+
+  }
+
+  .social a{
+    color: rgb(23, 25, 26);
+    padding: 10px;
+    border-radius: 50%;
+    background-color: antiquewhite;
+  }
+
+  .table tbody tr td{
+    text-align: center;
+  }
+
